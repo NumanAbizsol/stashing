@@ -1,0 +1,13 @@
+h1{
+    color: palevioletred;
+}
+
+body{
+    background-color: rgb(94, 81, 105);
+}
+
+p{
+    color: blue;
+    text-align: justify;
+    display: flex;
+}
